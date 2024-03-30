@@ -1,5 +1,5 @@
 const data = {
-  name: "John Doe",
+  name: "hari",
   age: 30,
   email: "john@example.com"
 };

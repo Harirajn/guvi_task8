@@ -1,7 +1,7 @@
 const data = {
   name: "hari",
-  age: 30,
-  email: "john@example.com"
+  age: 28,
+  email: "harirajnknr@gmail.com"
 };
 
 console.log("Data:", data);

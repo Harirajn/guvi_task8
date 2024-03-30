@@ -7,3 +7,4 @@ read name
 
 # Greet the user
 echo "Hello, $name! Nice to meet you."
+echo "bye"

@@ -3,5 +3,4 @@ const data = {
   age: 28,
   email: "harirajnknr@gmail.com"
 };
-
 console.log("Data:", data);
